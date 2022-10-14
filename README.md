@@ -9,6 +9,9 @@ The Hello react front end project is about building a react and redux and api to
 - Redux
 - API
 
+## Link to the Backend-End App
+You can visit the backend-end application which generated API via this [Link](https://github.com/Ghilain/hello-rails-back-end).
+
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
